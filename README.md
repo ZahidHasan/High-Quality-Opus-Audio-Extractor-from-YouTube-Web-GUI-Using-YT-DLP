@@ -5,7 +5,6 @@ A sleek, local, web-based graphical user interface (GUI) for yt-dlp, purpose-bui
 ## Devolomnent Note
 eveloped using modern, rapid AI-assisted workflows ("vibe coding"), the focus of this version is high momentum, immediate functionality, and clean deployment.
 
-## Key Deliverables
 
 ## 💖 Acknowledgments & Credits
 
@@ -24,17 +23,11 @@ This project is a graphical wrapper that relies heavily on the incredible work o
 ✨ Features
 
 1. Modern Web-Based UI: Clean, responsive, and distraction-free dark interface powered by NiceGUI.
-
 2. High-Fidelity Audio: Fully optimized for extracting native high-quality audio formats like Opus.
-
 3. Automated Post-Processing:
-
 4. Automatically handles thumbnail image conversions (e.g., WebP to PNG).
-
 5. Uses mutagen to seamlessly embed album art and metadata directly into the audio file container.
-
 6. Real-time Active Logs: An integrated, scrollable terminal console directly on the web page so you can track download progress and yt-dlp output in real time.
-
 7. Duplicate Detection: Smart parsing to check if the target file already exists in your destination directory before re-downloading.
 
 ## Implementation Preview
@@ -67,18 +60,15 @@ Python Packages: Install the required libraries via pip:
 ## 👌ow To Use
 
 1. Paste Link: Input your target YouTube video or playlist URL into the Paste YouTube Video URL text area.
-
 2. Set Destination: Update the Destination Folder path to point to your desired local directory (e.g., C:\Users\yourname\Downloads).
-
 3. Configure Quality: Select your preferred audio format (such as opus) and choose your target bitrate (e.g., 320 kbps).
-
 4. Extract: Click the large CONVERT & DOWNLOAD AUDIO button.
-
 5. Monitor: Watch the Active Logs / yt-dlp Console Output section at the bottom for real-time status updates until the progress bar signals completion.
 
 ## 🧬Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to submit a pull request or suggest modifications (like dynamic path picking or real-time progress bar parsing).
+
 
 ## 🪪 icense
 
